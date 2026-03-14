@@ -9,7 +9,7 @@ The Escape Room game challenges players to think critically and solve problems u
 3. Multiple rooms with hidden items and clues
 4. Game state tracking and multiple gameplay sessions
 
-![Alt text](https://raw.githubusercontent.com/ta-data-lis/python-project/master/escape-room-plan.jpg)
+![Escape Room Game](escape-room-plan.jpg)
 
 # :old_key: Technologies Used
 The project leverages fundamental Python concepts - see below
