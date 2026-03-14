@@ -1,6 +1,8 @@
 # 🎮 Overview
 The Escape Room game challenges players to think critically and solve problems using clues found in the rooms. It's a mix of adventure and puzzle-solving in a fun, virtual environment. The goal is to escape before it's too late!
 
+![Escape Room Game](EscapeGame.png)
+
 #  🛠️ Features
 1. Interactive gameplay with user input
 2. Logical puzzles and challenges
