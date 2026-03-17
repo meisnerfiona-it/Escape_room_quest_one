@@ -3,6 +3,9 @@ The Escape Room game challenges players to think critically and solve problems u
 
 ![Escape Room Game](EscapeGame.png)
 
+# Link to Google Slides:
+https://docs.google.com/presentation/d/1hBqzLGJJUXtxghBi3_8Uux6m6B02frE2tC5otyhGCpo/edit?usp=sharing
+
 #  🛠️ Features
 1. Interactive gameplay with user input
 2. Logical puzzles and challenges
