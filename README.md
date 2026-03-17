@@ -25,3 +25,6 @@ Organize code into reusable blocks.
 # :jigsaw: Control Flow:
 1. If & else statements: Create conditional logic for game events.
 2. User Input: Capture player decisions and actions.
+
+# Presentation PPT: 
+https://docs.google.com/presentation/d/1hBqzLGJJUXtxghBi3_8Uux6m6B02frE2tC5otyhGCpo/edit?slide=id.p#slide=id.p
